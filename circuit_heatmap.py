@@ -1,4 +1,5 @@
 import csv
+import sys
 from datetime import datetime
 import plotly.express as px
 
@@ -45,6 +46,6 @@ if __name__ == "__main__":
     for i in range(start_year, end_year + 1):
         circuits += read_file(i)
 
-    figure(circuits, animation_frame="year").write_html("out/year.html")
+    figure(circuits, animation_frame="year").write_html("{}/year.html".format(sys.argv[1]))
     figure(circuits, animation_frame="decade", range_color=10).write_html("out/decade.html")
     figure(circuits, range_color=(end_year - start_year) / 2).write_html("out/all.html")

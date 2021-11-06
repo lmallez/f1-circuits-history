@@ -21,7 +21,8 @@ jobs:
                   mkdir out
             - name: Build
               run: |
-                python circuit_heatmap.py
+                python circuit_heatmap.py out
+                cp static/* out
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               if: ${{ github.ref == 'refs/heads/main' }}
