@@ -4,7 +4,7 @@ from datetime import datetime
 import plotly.express as px
 
 start_year = 1950
-end_year = datetime.now().year
+end_year = 2022
 
 
 def read_file(year: int):
