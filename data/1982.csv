@@ -1,7 +1,7 @@
 circuitRef,name,location,country,lat,lon
 kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767
 jacarepagua,Autodromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395
-long_beach,Long Beach,California,USA,33.7651,-118.189,
+long_beach,Long Beach,California,USA,33.7651,-118.189
 imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
 zolder,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694
 monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056
@@ -14,4 +14,4 @@ hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583
 osterreichring,A1-Ring,Spielburg,Austria,47.2197,14.7647
 dijon,Dijon-Prenois,Dijon,France,47.3625,4.89913
 monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174,
+las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174

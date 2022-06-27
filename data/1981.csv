@@ -1,5 +1,5 @@
 circuitRef,name,location,country,lat,lon
-long_beach,Long Beach,California,USA,33.7651,-118.189,
+long_beach,Long Beach,California,USA,33.7651,-118.189
 jacarepagua,Autodromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395
 galvez,Autodromo Juan y Oscar Galvez,Buenos Aires,Argentina,-34.6943,-58.4593
 imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
@@ -13,4 +13,4 @@ osterreichring,A1-Ring,Spielburg,Austria,47.2197,14.7647
 zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092
 monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
 villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228
-las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174,
+las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174

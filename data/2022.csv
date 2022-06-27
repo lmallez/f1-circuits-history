@@ -1,7 +1,7 @@
 circuitRef,name,location,country,lat,lon
 bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
 jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.628,39.105
-albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,1
+albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968
 imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
 miami,Miami International Autodrome,Miami,USA,25.958,-80.238
 catalunya,Circuit de Barcelona-Catalunya,Montmelo,Spain,41.57,2.26111
@@ -15,7 +15,6 @@ hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486
 spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
 zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092
 monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
 marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864
 suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541
 americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411
